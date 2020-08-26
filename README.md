@@ -1,3 +1,3 @@
 # Android Architecture Masterclass
 
-Tutorial application for [my course about architecture of Android applications](https://go.techyourchance.com/android-architecture-course-github)
+This repo contains a demo app from the udemy course -> https://www.udemy.com/course/android-architecture/
